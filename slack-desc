@@ -1,0 +1,11 @@
+six: Six (Python 2 and 3 compatibility utilities)
+six:
+six: Six is a Python 2 and 3 compatibility library. It provides utility
+six: functions for smoothing over the differences between the Python versions
+six: with the goal of writing Python code that is compatible on both Python
+six: versions. See the documentation for more information on what is provided.
+six: Six supports every Python version since 2.6. It is contained in only one
+six: Python file, so it can be easily copied into your project, but copyright
+six: and license notice must be retained.
+six:
+six: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
