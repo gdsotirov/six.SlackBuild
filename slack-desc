@@ -8,4 +8,4 @@ six: Six supports every Python version since 2.6. It is contained in only one
 six: Python file, so it can be easily copied into your project, but copyright
 six: and license notice must be retained.
 six:
-six: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+six: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
